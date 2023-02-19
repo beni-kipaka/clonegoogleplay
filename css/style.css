@@ -299,7 +299,7 @@ section#ressources .container .ressource-cards .ressource-item span{
 
 section#ressources .container .ressource-cards .ressource-item p{
     font-size: 13px;
-    margin-bottom: 1rem;
+    margin: 10px 0px;
 }
 
 section#ressources .container .ressource-cards .ressource-item a{
