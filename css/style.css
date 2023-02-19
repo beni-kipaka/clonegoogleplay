@@ -13,6 +13,10 @@ a,li{
     list-style-type: none;
 }
 
+.bi-x-lg{
+    display: none;
+}
+
 .container{
     background-color: fff;
     max-width: 1200px;
@@ -420,24 +424,6 @@ section#ressources .container .ressource-cards .ressource-item .icons .bi{
 
 /* MEDIAS QUERIES */
 @media screen and (max-width: 500px) {
-
-    nav .navigation .nav_toggle{
-        display: grid;
-    }
-
-
-    nav .navigation .nav_menu{
-        display: grid;
-        position: absolute;
-        background: #fff;
-        width: 100%;
-        top: 75px;
-        left: 0;
-        /* transform: translateY(-100%); */
-        z-index: -1;
-        transition: .6s;
-    }
-
 
 
     section {
